@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اسلامي</string>
+    <string name="title_activity_splash">اسلامي</string>
+    <string name="next">التالي</string>
+    <string name="previous">السابق</string>
+    <string name="title_quran">القرأن</string>
+    <string name="title_tasbeeh">سبحه</string>
+</resources>

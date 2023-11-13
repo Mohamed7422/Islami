@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Islami</string>
+    <string name="title_activity_splash">Islami</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_home" translatable="false">HomeActivity</string>
+    <string name="title_quran">Quran</string>
+    <string name="title_tasbeeh">Tasbeeh</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+
+    <string-array name="duaa">
+        <item>الله أكبر</item>
+        <item>سبحان الله</item>
+        <item>الحمد لله</item>
+        <item>لا اله اللا الله</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="radio">Radio</string>
+</resources>
