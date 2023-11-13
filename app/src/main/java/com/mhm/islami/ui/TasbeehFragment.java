@@ -6,7 +6,7 @@ import android.os.Bundle;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 
- 
+
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -73,7 +73,7 @@ public class TasbeehFragment extends Fragment  {
 
        //Create a list of values for Spinner
         List<Zekr> zekrList= new ArrayList<>();
-        String[]  zekrNameList = {"الله أكبر", "سبحان الله", "الحمد لله", "لا اله اللا الله"};
+        String[]  zekrNameList = {getString(R.string.allahakber), getString(R.string.subhanAllah), getString(R.string.elhamdllah), getString(R.string.laIllahIllaAllah)};
         zekrList.add(new Zekr(1,zekrNameList[0],0));
         zekrList.add(new Zekr(2,zekrNameList[1],0));
         zekrList.add(new Zekr(3,zekrNameList[2],0));

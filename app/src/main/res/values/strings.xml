@@ -24,4 +24,8 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
     <string name="radio">Radio</string>
+    <string name="allahakber">الله أكبر</string>
+    <string name="subhanAllah">سبحان الله</string>
+    <string name="elhamdllah">الحمد لله</string>
+    <string name="laIllahIllaAllah">لا اله اللا الله</string>
 </resources>

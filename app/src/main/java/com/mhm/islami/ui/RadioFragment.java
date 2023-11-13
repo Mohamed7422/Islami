@@ -123,8 +123,6 @@ public class RadioFragment extends Fragment {
                         progressBar.setVisibility(View.GONE);
                         adapter.changeData(response.body().getRadios());
 
-
-
                     }
 
                     @Override
